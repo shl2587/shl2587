@@ -21,8 +21,7 @@
 </div>
 
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shl2587&slug=JAVA-설치-및-환경-변수-설정](https://github.com/@shl2587/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shl2587)](https://velog.io/@shl2587)
 
 
 
