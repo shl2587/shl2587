@@ -15,16 +15,6 @@
 <br><br><br>
 
 
-
-
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=shl2587)](https://velog.io/@shl2587) 
-
-
-
-
-
 <div align=left><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -50,5 +40,10 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=shl2587)](https://velog.io/@shl2587) 
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D3EBC2&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
