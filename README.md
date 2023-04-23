@@ -8,6 +8,11 @@
 
 <br><br><br>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=자바)](https://velog.io/@shl2587)
+
+
+
+
 
 <div align=left><h1>Using Social</h1></div>
 <div>
@@ -15,7 +20,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=velog)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=path)](https://github.com/eungyeole/velog-readme-stats)
 
 
 <div align=left><h1>📚 STACKS</h1></div>
