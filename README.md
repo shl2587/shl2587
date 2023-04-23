@@ -20,7 +20,13 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&tag=path)](https://github.com/eungyeole/velog-readme-stats)
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shl2587&slug=JAVA-설치-및-환경-변수-설정](https://github.com/@shl2587/)
+
+
+
+
 
 
 <div align=left><h1>📚 STACKS</h1></div>
