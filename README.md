@@ -15,7 +15,7 @@
 <br><br><br>
 
 
-<div align=left><h1>Using Social</h1></div>
+## Using Social
 <div>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
