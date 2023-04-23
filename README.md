@@ -6,12 +6,10 @@
 
                 
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shl2587)](https://velog.io/@shl2587)
+
+
 <br><br><br>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=eungyeole&slug=자바)](https://velog.io/@shl2587)
-
-
-
 
 
 <div align=left><h1>Using Social</h1></div>
@@ -21,8 +19,8 @@
 </div>
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shl2587)](https://velog.io/@shl2587)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=shl2587)](https://velog.io/@shl2587) 
 
 
 
