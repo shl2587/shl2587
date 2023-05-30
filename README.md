@@ -12,7 +12,7 @@
 ## <img src="https://img.shields.io/badge/v-20C997?style=for-the-badge">Velog최신글
 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shl2587)](https://velog.io/@shl2587)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=shl2587)](https://github.com/eungyeole/velog-readme-stats)
 
 
 <br><br><br>
